@@ -1,0 +1,14 @@
+{
+  "name": "first-electron-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron main ."
+  },
+  "devDependencies": {
+    "electron": "^9.1.2",
+    "electron-reloader": "^1.0.1"
+  },
+  "dependencies": {}
+}
